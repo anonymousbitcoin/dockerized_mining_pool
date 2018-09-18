@@ -1,0 +1,13 @@
+{
+  "name": "Anonymous Bitcoin",
+  "symbol": "anon",
+  "algorithm": "equihash",
+  "parameters": {
+      "N": 144,
+      "K": 5,
+      "personalization": "AnonyPoW"
+  },
+  "requireShielding": true,
+  "peerMagic": "83d847a7",
+  "txfee": 0.0001
+}
